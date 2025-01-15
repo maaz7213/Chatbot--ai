@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import Sidebar from './Component/sidebar.jsx';
+import Sidebar from './Component/Sidebar.jsx';
 import ChatArea from './Component/chat-area.jsx';
 import Settings from './Component/settings.jsx';
 import PropTypes from 'prop-types';
