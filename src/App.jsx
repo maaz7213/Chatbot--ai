@@ -1,9 +1,9 @@
 'use client';
 
 import { useState } from 'react';
-import Sidebar from './Component/sidebar';
-import ChatArea from './Component/chat-area';
-import Settings from './Component/settings';
+import Sidebar from './Component/sidebar.jsx';
+import ChatArea from './Component/chat-area.jsx';
+import Settings from './Component/settings.jsx';
 import PropTypes from 'prop-types';
 import './index.css'; // Ensure the path is correct based on your project structure
 
